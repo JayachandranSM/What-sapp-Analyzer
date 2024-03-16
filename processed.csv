@@ -1,0 +1,724 @@
+Date,Time,Name,Text,scores,compound,Negtive,Postive,Neutral,comp_score,Topic
+11/01/2020, 6:12 pm , Karti, IMG-20200111-WA0057.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/01/2020, 6:12 pm , Karti, IMG-20200111-WA0049.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/01/2020, 6:12 pm , Karti, IMG-20200111-WA0056.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/01/2020, 6:12 pm , Karti, IMG-20200111-WA0055.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/01/2020, 6:12 pm , Karti, IMG-20200111-WA0054.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/01/2020, 10:25 pm , Karti, Dp❣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+11/01/2020, 10:35 pm , Vijay Murthy, 😇😇,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+12/01/2020, 12:11 pm , Vijay Murthy, Enn phone again call attend pana mudila,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+12/01/2020, 12:11 pm , Vijay Murthy, Iru naanae pandran,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/01/2020, 11:54 am , Karti, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+13/01/2020, 10:44 pm , Vijay Murthy, https://youtu.be/9-OLdDGriTo,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+13/01/2020, 10:45 pm , Vijay Murthy, Audio plzz,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+13/01/2020, 10:49 pm , Karti, AUD-20200113-WA0039.mp3 (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/01/2020, 10:49 pm , Vijay Murthy, Padhi dan iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/01/2020, 10:49 pm , Vijay Murthy, Meedi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/01/2020, 10:51 pm , Karti, 🤥🤥,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/01/2020, 10:51 pm , Vijay Murthy, Ama,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+13/01/2020, 10:52 pm , Karti, AUD-20200113-WA0040.mp3 (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/01/2020, 10:53 pm , Karti, AUD-20200113-WA0041.m4a (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/01/2020, 10:53 pm , Vijay Murthy, 👌🏻👌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/01/2020, 10:53 pm , Vijay Murthy, Farewell intro music,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/01/2020, 10:53 pm , Karti, 🤩🤩,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/01/2020, 10:54 pm , Karti, 👌🏻❣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+17/01/2020, 6:53 pm , Karti, IMG-20200117-WA0058.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+17/01/2020, 6:53 pm , Vijay Murthy, Good,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4404}",0.4404,0.0,1.0,0.0,pos,4
+17/01/2020, 6:54 pm , Karti, IMG-20200117-WA0059.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+17/01/2020, 6:55 pm , Karti, IMG-20200117-WA0060.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+17/01/2020, 6:57 pm , Karti, IMG-20200117-WA0061.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+17/01/2020, 6:58 pm , Karti, IMG-20200117-WA0062.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+18/01/2020, 9:14 am , Vijay Murthy, 5805,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+18/01/2020, 10:34 am , Karti, Enna ithu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+18/01/2020, 10:34 am , Vijay Murthy, Km,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+19/01/2020, 11:06 am , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+19/01/2020, 11:06 am , Vijay Murthy, Aachi ok dana,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.0,0.524,0.476,pos,1
+19/01/2020, 11:06 am , Vijay Murthy, Edadu ketangala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+19/01/2020, 11:14 am , Karti, 👌🏻👌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+19/01/2020, 1:27 pm , Vijay Murthy, Edadu ketangala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+19/01/2020, 1:28 pm , Karti, Illa illa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+19/01/2020, 1:29 pm , Vijay Murthy, Prblm edum illala,"{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.3818}",-0.3818,0.565,0.0,0.435,neg,4
+19/01/2020, 1:30 pm , Karti, Nothing,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+19/01/2020, 1:30 pm , Karti, Cool,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}",0.3182,0.0,1.0,0.0,pos,1
+19/01/2020, 1:32 pm , Vijay Murthy, Ryyytuu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+19/01/2020, 1:33 pm , Vijay Murthy, Vanda edadu kathuvaingalono bayandutan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+19/01/2020, 1:33 pm , Karti, Nope,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+19/01/2020, 1:34 pm , Vijay Murthy, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+19/01/2020, 1:57 pm , Karti, Enga irukeenga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+19/01/2020, 2:01 pm , Vijay Murthy, Panruti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+19/01/2020, 2:20 pm , Karti, Sooprt,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+19/01/2020, 2:21 pm , Karti, Unakaga biriyani waiting🤩,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+19/01/2020, 2:39 pm , Vijay Murthy, Reallyy,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+19/01/2020, 2:46 pm , Karti, Yesss,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+19/01/2020, 9:05 pm , Karti, W r u?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+20/01/2020, 10:56 am , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+20/01/2020, 10:56 am , Vijay Murthy, Thr,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+20/01/2020, 10:56 am , Karti, Yee,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+20/01/2020, 10:56 am , Karti, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",0.4019,0.0,1.0,0.0,pos,3
+20/01/2020, 10:56 am , Vijay Murthy, One help,"{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}",0.4019,0.0,0.73,0.27,pos,4
+20/01/2020, 10:57 am , Karti, What,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+20/01/2020, 10:57 am , Vijay Murthy, https://ieeexplore.ieee.org/document/7122903,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+20/01/2020, 10:57 am , Vijay Murthy, Idhu download aaguda paaran,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 10:57 am , Vijay Murthy, Aachuna anupu da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+20/01/2020, 10:59 am , Karti, Login kaekuthu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 10:59 am , Vijay Murthy, Enda login,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 10:59 am , Karti, Call abi and ask her to download,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 10:59 am , Karti, Ieee member ava,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+20/01/2020, 10:59 am , Vijay Murthy, Okie,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 10:59 am , Karti, Login irukum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 10:59 am , Vijay Murthy, Ryytuu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+20/01/2020, 11:00 am , Karti, Txt pannama.. Call panni kaelu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 11:00 am , Vijay Murthy, Okie,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 11:53 am , Karti, Kedachutha paper,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 11:53 am , Karti, ?,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+20/01/2020, 11:59 am , Vijay Murthy, Illa keturukan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+20/01/2020, 12:41 pm , Karti, https://www.google.com/search?q=spéed+test&oq=spéed&aqs=chrome.1.69i57j0l3.3753j0j9&client=ms-android-xiaomi-rev1&sourceid=chrome-mobile&ie=UTF-8,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+20/01/2020, 12:41 pm , Karti, Itha click pani evlo speed varuthu nu check panni solu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 12:41 pm , Karti, IMG-20200120-WA0000.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+20/01/2020, 12:42 pm , Karti, Ithu pola varum antha page la,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 12:42 pm , Vijay Murthy, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1
+20/01/2020, 12:42 pm , Karti, Mm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+20/01/2020, 12:42 pm , Karti, Athula run speed test nu oru option irukum paru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 12:43 pm , Vijay Murthy, IMG-20200120-WA0001.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+20/01/2020, 12:43 pm , Karti, Sooper,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 12:44 pm , Karti, Speed ah iruku la ipo net,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 12:44 pm , Vijay Murthy, Ama,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+20/01/2020, 12:44 pm , Karti, Mm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+20/01/2020, 2:16 pm , Vijay Murthy, https://forms.gle/6mhcRSFwW2dL5Dmd7,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+20/01/2020, 2:17 pm , Vijay Murthy, Inda cmpny pathi visarichu solu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 2:18 pm , Karti, Mm seri,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+20/01/2020, 9:14 pm , Karti, IMG-20200120-WA0004.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+20/01/2020, 9:37 pm , Vijay Murthy, Njy,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+20/01/2020, 9:37 pm , Karti, Sooper ah irunthuthu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+20/01/2020, 9:37 pm , Karti, Thank u🤩🤩,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.3612,0.0,0.714,0.286,pos,0
+20/01/2020, 9:38 pm , Vijay Murthy, 🥰🥰,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+21/01/2020, 4:42 pm , Vijay Murthy, Naa veetuku vantan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+21/01/2020, 4:42 pm , Karti, 👌🏻👌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+22/01/2020, 10:13 am , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+22/01/2020, 10:13 am , Vijay Murthy, Enaku recharge pani vidu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+22/01/2020, 10:15 am , Karti, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1
+22/01/2020, 10:56 am , Vijay Murthy, IMG-20200122-WA0002.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+22/01/2020, 10:57 am , Karti, Doneee,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+23/01/2020, 9:22 am , Karti, IMG-20200123-WA0001.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+23/01/2020, 9:22 am , Karti, IMG-20200123-WA0000.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+23/01/2020, 9:44 am , Karti, IMG-20200123-WA0002.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+23/01/2020, 9:44 am , Karti, IMG-20200123-WA0003.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+23/01/2020, 10:35 am , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+23/01/2020, 10:35 am , Vijay Murthy, Enaku topup panu da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+23/01/2020, 10:35 am , Karti, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",0.4019,0.0,1.0,0.0,pos,3
+23/01/2020, 10:36 am , Karti, *123#,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+23/01/2020, 10:36 am , Karti, Poota enna kaatuthu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+23/01/2020, 10:37 am , Vijay Murthy, Iru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+23/01/2020, 10:38 am , Vijay Murthy, IMG-20200123-WA0004.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+23/01/2020, 10:38 am , Karti, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1
+23/01/2020, 10:38 am , Vijay Murthy, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+23/01/2020, 10:48 am , Karti, Done,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+23/01/2020, 10:50 am , Vijay Murthy, Mm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+26/01/2020, 2:52 pm , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+26/01/2020, 2:52 pm , Vijay Murthy, Irukiya,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+26/01/2020, 2:52 pm , Karti, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",0.4019,0.0,1.0,0.0,pos,3
+26/01/2020, 2:52 pm , Vijay Murthy, Oru help,"{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}",0.4019,0.0,0.73,0.27,pos,1
+26/01/2020, 2:52 pm , Vijay Murthy, sentiment-analysis-from-opinion-mining-to-humanagent-interaction-2016.pdf (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+26/01/2020, 2:52 pm , Karti, Enna,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:53 pm , Vijay Murthy, Inda paper uh lite uh padichu paru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:53 pm , Vijay Murthy, Idoda merit demerit,"{'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.4215}",0.4215,0.0,0.583,0.417,pos,0
+26/01/2020, 2:53 pm , Vijay Murthy, Unaku terida,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:53 pm , Vijay Murthy, Terinja solu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:53 pm , Karti, 😜😜,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+26/01/2020, 2:54 pm , Karti, Full ah patha than theryum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:54 pm , Karti, Eppo venum?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:54 pm , Vijay Murthy, Illa full uh vendam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+26/01/2020, 2:54 pm , Vijay Murthy, First some para,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+26/01/2020, 2:54 pm , Vijay Murthy, Last knjm paru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:54 pm , Karti, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1
+26/01/2020, 2:55 pm , Vijay Murthy, Knjm paaran,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:55 pm , Karti, Serii,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+26/01/2020, 2:55 pm , Vijay Murthy, Apdi idhu mudilana,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+26/01/2020, 2:55 pm , Vijay Murthy, basile2018.pdf (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+26/01/2020, 2:56 pm , Vijay Murthy, Idha kuda paru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:56 pm , Vijay Murthy, Adhu mudilana,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+26/01/2020, 2:56 pm , Karti, Ok ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5267}",0.5267,0.0,1.0,0.0,pos,1
+26/01/2020, 2:56 pm , Vijay Murthy, Mm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+26/01/2020, 2:56 pm , Vijay Murthy, Plzz,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+26/01/2020, 2:56 pm , Vijay Murthy, Neraya iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:56 pm , Vijay Murthy, Adan unta onnu kuduthan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:57 pm , Karti, Ok ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5267}",0.5267,0.0,1.0,0.0,pos,1
+26/01/2020, 2:57 pm , Karti, Naalaiku offz la paathu solraen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:57 pm , Vijay Murthy, Nalika,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+26/01/2020, 2:57 pm , Karti, Time irukum naraiya,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:58 pm , Vijay Murthy, Vendam vidu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 2:58 pm , Vijay Murthy, Naa paathukaran,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 3:01 pm , Karti, Paathutu than irukaen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+26/01/2020, 3:01 pm , Vijay Murthy, 😅😅,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+26/01/2020, 3:01 pm , Karti, But onnum puriya than maatinguthu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 3:01 pm , Karti, Ethuku ithu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 3:01 pm , Vijay Murthy, Prjct,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+26/01/2020, 3:01 pm , Vijay Murthy, Liter survey ku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+26/01/2020, 3:02 pm , Vijay Murthy, Last la paru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+26/01/2020, 3:02 pm , Karti, Ryty,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+26/01/2020, 3:02 pm , Karti, Etho pannunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+26/01/2020, 3:02 pm , Karti, 😆,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+26/01/2020, 3:02 pm , Vijay Murthy, PTT-20200126-WA0008.opus (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+26/01/2020, 3:02 pm , Karti, 😅😅😅,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 2:02 pm , Karti, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+27/01/2020, 2:02 pm , Karti, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+27/01/2020, 2:02 pm , Karti, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+27/01/2020, 2:04 pm , Karti, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+27/01/2020, 2:04 pm , Karti, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+27/01/2020, 2:06 pm , Karti, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+27/01/2020, 2:06 pm , Karti, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+27/01/2020, 2:06 pm , Karti, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+27/01/2020, 6:20 pm , Vijay Murthy, 👌🏻👌🏻👌🏻👌🏻👍🏻👍🏻👍🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 6:21 pm , Karti, Ellamae paathacha,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 6:21 pm , Vijay Murthy, Paatan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 6:22 pm , Karti, Nicee,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+27/01/2020, 6:22 pm , Vijay Murthy, Enn neram....,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+27/01/2020, 6:22 pm , Karti, Antha photo frame ellarukum pidichirunthu.... Abi oda chithu athai lam vanthu enkitta sooper ah iruku nu sonnanga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+27/01/2020, 6:23 pm , Vijay Murthy, Ooooo,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 6:23 pm , Vijay Murthy, Nicee,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+27/01/2020, 6:23 pm , Karti, Cool... Mama and unna than kootitu poolam nu irunthaen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+27/01/2020, 6:23 pm , Karti, but athai won't allow,"{'neg': 0.4, 'neu': 0.6, 'pos': 0.0, 'compound': -0.2498}",-0.2498,0.4,0.0,0.6,neg,1
+27/01/2020, 6:23 pm , Karti, What to do,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 6:24 pm , Vijay Murthy, Yeahhh,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 6:24 pm , Vijay Murthy, But avangala vittutu poga mudiyuma,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 6:24 pm , Vijay Murthy, Appa varuvangala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 6:24 pm , Vijay Murthy, Yoosichu paar,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 6:24 pm , Karti, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",0.4019,0.0,1.0,0.0,pos,3
+27/01/2020, 6:24 pm , Karti, athan ethum paesala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+27/01/2020, 6:24 pm , Karti, Leave,"{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.0516}",-0.0516,1.0,0.0,0.0,neg,0
+27/01/2020, 6:25 pm , Vijay Murthy, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+27/01/2020, 6:25 pm , Karti, Oru naal ava veetuku poi paakanum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+27/01/2020, 6:25 pm , Karti, Any weekend,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 6:26 pm , Vijay Murthy, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+27/01/2020, 6:27 pm , Karti, She was searching for u😥,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 6:27 pm , Vijay Murthy, 😑😑😑,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 6:28 pm , Karti, Paati ku low sugar aagiruchu athan last min la flan nadakala nu sonnaen,"{'neg': 0.149, 'neu': 0.851, 'pos': 0.0, 'compound': -0.2732}",-0.2732,0.149,0.0,0.851,neg,1
+27/01/2020, 6:28 pm , Vijay Murthy, Mmmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+27/01/2020, 6:28 pm , Karti, Call her and speak on wednesday,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+27/01/2020, 6:28 pm , Vijay Murthy, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+27/01/2020, 6:30 pm , Karti, Mm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+29/01/2020, 7:43 am , Karti, IMG-20200129-WA0002.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+29/01/2020, 7:56 am , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+29/01/2020, 8:04 pm , Karti, Train eritaen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+29/01/2020, 8:04 pm , Karti, Veetula sollidu😊,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+29/01/2020, 8:04 pm , Vijay Murthy, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+29/01/2020, 8:05 pm , Karti, Mm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+30/01/2020, 5:53 pm , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+30/01/2020, 5:53 pm , Vijay Murthy, Ena pandra,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+30/01/2020, 5:54 pm , Karti, Mrng tiruchendur poonom,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+30/01/2020, 5:54 pm , Vijay Murthy, Hmm aprm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+30/01/2020, 5:54 pm , Karti, Ipo room la,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+30/01/2020, 5:54 pm , Vijay Murthy, Enn phone sim vela seiya mastangudu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+30/01/2020, 5:54 pm , Vijay Murthy, Neeyum maathitara maata,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+30/01/2020, 5:54 pm , Karti, Ohhh,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+30/01/2020, 5:54 pm , Vijay Murthy, Ena pandradu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+30/01/2020, 5:54 pm , Karti, Maathiraen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+30/01/2020, 5:54 pm , Karti, Cool,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}",0.3182,0.0,1.0,0.0,pos,1
+30/01/2020, 5:55 pm , Vijay Murthy, Epo,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+30/01/2020, 5:55 pm , Karti, Monday mrng sim maathiraen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+30/01/2020, 5:55 pm , Vijay Murthy, Pakalam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+30/01/2020, 5:55 pm , Karti, Proof matm eduthu vai,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+30/01/2020, 5:55 pm , Vijay Murthy, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/02/2020, 9:33 am , Karti, Hiiiiiiiiiiii,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:42 am , Vijay Murthy, Vanakam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:43 am , Karti, Enna panrael,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:43 am , Vijay Murthy, Ipo dan saptan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:44 am , Karti, Enna spcl,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:44 am , Karti, Inga poori,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+01/02/2020, 9:44 am , Vijay Murthy, Inga pongal,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+01/02/2020, 9:44 am , Karti, 👌🏻👌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:44 am , Vijay Murthy, Nalla thinnu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/02/2020, 9:44 am , Vijay Murthy, Athai samayal uh iniki,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:45 am , Karti, Naethu rendu naalum... Semma sapadu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/02/2020, 9:45 am , Karti, Kishore veetula...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/02/2020, 9:45 am , Karti, Mrng matm than🤣 aft and nyt veliya,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:45 am , Karti, Aft koorai kadai.. Nyt ku border😍😍😍😍,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:46 am , Vijay Murthy, Njyy panu.   😪😪😪😪,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/02/2020, 9:46 am , Vijay Murthy, Enaku eriduuu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/02/2020, 9:46 am , Karti, 🙊🙊🙊,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:46 am , Vijay Murthy, 🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:46 am , Vijay Murthy, Poooo,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:46 am , Vijay Murthy, Thinnu peruthu vaa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/02/2020, 9:46 am , Vijay Murthy, Unn diet veena pooga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:46 am , Vijay Murthy, 🤣🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:47 am , Karti, IMG-20200201-WA0002.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:47 am , Karti, IMG-20200201-WA0003.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:47 am , Karti, IMG-20200201-WA0004.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:47 am , Karti, 👌🏻👌🏻👌🏻👊🏽👊🏽👊🏽,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:47 am , Vijay Murthy, 👌🏻👌🏻👌🏻👌🏻👌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:47 am , Karti, Ennoda friendu🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:47 am , Karti, Vada poda nu than paeusvan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:47 am , Karti, 🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:48 am , Vijay Murthy, 🤣🤣🤣👍🏻👍🏻👍🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:48 am , Vijay Murthy, Ipo enga iruka,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:48 am , Karti, Dei muthu vada velauyadalam nu than solluvan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:48 am , Vijay Murthy, Rytu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:49 am , Karti, Etho kovil ku alachitu pooranga... Athu mudinjathum neduvayal,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:50 am , Vijay Murthy, Ryytuu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/02/2020, 9:50 am , Vijay Murthy, Trouser pootu poogada,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:50 am , Vijay Murthy, 🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:50 am , Karti, 🤣🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:50 am , Karti, I know,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/02/2020, 9:50 am , Vijay Murthy, Ama ama,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+01/02/2020, 9:50 am , Karti, Naalaiku achan kovil😍,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:51 am , Vijay Murthy, 🥰🥰🥰,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:51 am , Vijay Murthy, Poda poo,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/02/2020, 9:51 am , Vijay Murthy, Varada inga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+01/02/2020, 9:51 am , Vijay Murthy, 😭😭,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:51 am , Karti, Offz poonum🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:52 am , Karti, Monday mrng vanthuruvaen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:52 am , Vijay Murthy, Adellam poonuma ena,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:52 am , Vijay Murthy, 🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:52 am , Karti, Yessu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:52 am , Karti, Trip lam over... Naalaiyoda,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:52 am , Karti, 😆😆,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:52 am , Vijay Murthy, Over uh scene poodada,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 9:53 am , Karti, 🙈🙈🙈,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:53 am , Vijay Murthy, 🥵🥵🥵🥵🥵🥵,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:55 am , Karti, Entha falls layum thanni illa😕😕😕,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/02/2020, 9:55 am , Vijay Murthy, STK-20190801-WA0004.webp (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:57 am , Karti, 🙇🏻‍♂️,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 9:57 am , Vijay Murthy, STK-20190801-WA0004.webp (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 12:27 pm , Karti, IMG-20200201-WA0006.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 1:59 pm , Vijay Murthy, Unn frnd uh,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 2:04 pm , Karti, Nee than athu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 2:04 pm , Karti, 😆😆😆,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 2:05 pm , Vijay Murthy, 🥵🥵🥵,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 2:07 pm , Karti, 😆😆,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 8:08 pm , Karti, Kya dinner,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 8:08 pm , Karti, Naa thaniyavae vanthuten bike eduthutu😆😆 Border🥳🥳,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/02/2020, 8:08 pm , Vijay Murthy, 👌🏻👌🏻👌🏻👌🏻👌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 8:09 pm , Karti, 🤩🤩,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/02/2020, 8:29 pm , Vijay Murthy, 😇😇😇,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+02/02/2020, 9:57 am , Karti, https://youtu.be/ZwPv-oUGG10,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+02/02/2020, 6:46 pm , Karti, Missed voice call,"{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.296}",-0.296,0.524,0.0,0.476,neg,4
+02/02/2020, 6:48 pm , Vijay Murthy, Sim wrk aagala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+02/02/2020, 7:48 pm , Karti, http://s.yourbus.in/mnXr,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+02/02/2020, 7:48 pm , Vijay Murthy, Good,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4404}",0.4404,0.0,1.0,0.0,pos,4
+02/02/2020, 7:49 pm , Karti, 🥳,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+03/02/2020, 9:57 pm , Vijay Murthy, https://youtu.be/14pHbmKAfCE,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+03/02/2020, 9:57 pm , Vijay Murthy, Audio plzz,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+03/02/2020, 10:00 pm , Karti, AUD-20200203-WA0012.mp3 (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+03/02/2020, 10:00 pm , Vijay Murthy, Nice,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4215}",0.4215,0.0,1.0,0.0,pos,4
+03/02/2020, 10:04 pm , Karti, 🙌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+04/02/2020, 10:45 am , Karti, IMG-20200204-WA0000.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+04/02/2020, 10:45 am , Karti, IMG-20200204-WA0004.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+04/02/2020, 10:45 am , Karti, IMG-20200204-WA0003.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+04/02/2020, 10:45 am , Karti, IMG-20200204-WA0002.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+04/02/2020, 10:45 am , Karti, IMG-20200204-WA0001.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+04/02/2020, 10:59 am , Vijay Murthy, Mm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+04/02/2020, 11:02 am , Karti, 🙌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+04/02/2020, 11:02 am , Vijay Murthy, Any other pics,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+04/02/2020, 11:03 am , Karti, Fb la paaru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+04/02/2020, 11:03 am , Vijay Murthy, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+04/02/2020, 11:03 am , Karti, Ithuvae kevalama iruntha... Others innum worsta irkum🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+04/02/2020, 11:03 am , Vijay Murthy, 🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+04/02/2020, 11:04 am , Karti, Intha photo vachi enaku ponnu thedurathukulla,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+04/02/2020, 11:04 am , Karti, 60 than pola🤣🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+04/02/2020, 11:04 am , Vijay Murthy, 🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+04/02/2020, 11:05 am , Vijay Murthy, VID-20200204-WA0005.mp4 (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+04/02/2020, 11:05 am , Karti, 🤣🤣🙌🏻🙌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+04/02/2020, 11:05 am , Karti, Pic post pannum bothu privacy pootu vainga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+04/02/2020, 11:05 am , Vijay Murthy, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+04/02/2020, 11:06 am , Karti, Req pannum bothu kaamikira mathry,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+04/02/2020, 11:06 am , Vijay Murthy, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+04/02/2020, 11:06 am , Karti, Open ah iruntha aprm call eh varathu🤣🤣🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+04/02/2020, 11:06 am , Vijay Murthy, 😂😂😂,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 10:23 am , Karti, Athai oda dob enna nu solu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 10:23 am , Karti, Adhar la pathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 10:23 am , Vijay Murthy, Enn da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 10:24 am , Karti, Bharathy ketan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 10:24 am , Vijay Murthy, 17/08/1963,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 10:24 am , Vijay Murthy, Adha enn ta keka maatarama,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 10:24 am , Karti, 🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 10:24 am , Vijay Murthy, Edhuku ketan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 10:25 am , Karti, Dont know,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 10:25 am , Vijay Murthy, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 10:31 am , Karti, Mm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 10:31 am , Karti, 4375 5165 9248 1000,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 10:32 am , Karti, Exp 03/22,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 10:32 am , Vijay Murthy, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+05/02/2020, 10:32 am , Vijay Murthy, Thn,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 10:32 am , Karti, Cvv 941,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 10:32 am , Karti, Name Muthuvairavan K,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 10:32 am , Vijay Murthy, Mm ok,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,4
+05/02/2020, 10:32 am , Karti, Ellam fill pannitu solu otp kaekum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 10:32 am , Karti, Naa anuprn,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 10:32 am , Vijay Murthy, Appa veetla illa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 10:32 am , Karti, Rytu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 10:32 am , Vijay Murthy, Vandadum pandran,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 10:33 am , Karti, Un mob layum app install pani patu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 10:33 am , Karti, Paru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 10:33 am , Vijay Murthy, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 10:34 am , Karti, M6962302,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 10:34 am , Karti, 98405@SM,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 10:34 am , Karti, Ithan login details,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 10:45 am , Vijay Murthy, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+05/02/2020, 10:56 am , Karti, Mama ku again call pannanam from matrimony,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 10:56 am , Karti, So naa pay pnnitaen ipo,"{'neg': 0.296, 'neu': 0.704, 'pos': 0.0, 'compound': -0.1725}",-0.1725,0.296,0.0,0.704,neg,1
+05/02/2020, 10:56 am , Karti, Nee login pani photos lam pootu vidu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 11:09 am , Vijay Murthy, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+05/02/2020, 11:09 am , Vijay Murthy, Load aagudu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 11:18 am , Karti, Ok ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5267}",0.5267,0.0,1.0,0.0,pos,1
+05/02/2020, 11:42 am , Karti, Apadyae mama oda dob solu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 11:42 am , Karti, Adhar la irukura mathry,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 11:54 am , Karti, Missed voice call,"{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.296}",-0.296,0.524,0.0,0.476,neg,4
+05/02/2020, 11:59 am , Vijay Murthy, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 11:59 am , Vijay Murthy, Iru paakaran,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 12:00 pm , Karti, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1
+05/02/2020, 12:01 pm , Vijay Murthy, Appa ku 12/08/1957,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 12:01 pm , Karti, Ok done,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1
+05/02/2020, 12:01 pm , Vijay Murthy, Amma ku 17/08/1964,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 12:02 pm , Vijay Murthy, 63 illa 64,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 12:02 pm , Karti, Seri seri,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 12:02 pm , Vijay Murthy, Eduku kekaran,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 12:02 pm , Karti, Offz la,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 12:02 pm , Karti, Kaepanga yearly once... Insurance update panna,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 12:03 pm , Vijay Murthy, Ohhh,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 12:03 pm , Vijay Murthy, Iduku onum korachal illa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 12:03 pm , Karti, 😆😆,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 12:03 pm , Karti, Seri photo pootacha,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 12:03 pm , Karti, 🤣,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+05/02/2020, 12:03 pm , Vijay Murthy, Illa da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 12:04 pm , Vijay Murthy, Appa inum nalla photo paaka sonaga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 12:04 pm , Karti, Ellam mudichitu work eh start pannunga🥴🥴,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 12:04 pm , Vijay Murthy, Adan fb gallery la theditu irukan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 12:04 pm , Karti, Rytuu🙄🙄,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 12:04 pm , Karti, Thaedu theadu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 12:04 pm , Karti, 8 years ku munnadi iruka pic kuda podu.. Orae mathry than irukum😆,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 12:04 pm , Vijay Murthy, Ipo unoda dp uh naa save panitan,"{'neg': 0.0, 'neu': 0.652, 'pos': 0.348, 'compound': 0.4939}",0.4939,0.0,0.348,0.652,pos,1
+05/02/2020, 12:04 pm , Vijay Murthy, Adum poda sonaga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 12:05 pm , Karti, Seri seri,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 12:05 pm , Vijay Murthy, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 12:06 pm , Karti, IMG-20200205-WA0001.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 12:07 pm , Vijay Murthy, 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 12:07 pm , Vijay Murthy, Thirutu muli,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 12:07 pm , Karti, Athae🙈🙈,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 12:07 pm , Karti, 🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 12:07 pm , Vijay Murthy, 🤣🤣🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 2:43 pm , Karti, Innuma photo theduringa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 2:43 pm , Karti, 😆😆,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 3:09 pm , Vijay Murthy, Ama,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+05/02/2020, 3:12 pm , Karti, 🤣👌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 3:32 pm , Vijay Murthy, Hmmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 3:33 pm , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+05/02/2020, 3:34 pm , Karti, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",0.4019,0.0,1.0,0.0,pos,3
+05/02/2020, 3:34 pm , Vijay Murthy, Egg order panu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 3:35 pm , Karti, Brown egg?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 3:38 pm , Vijay Murthy, Ama,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+05/02/2020, 3:45 pm , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+05/02/2020, 3:45 pm , Vijay Murthy, Pwd ena,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 3:49 pm , Karti, 98405@SM,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 3:50 pm , Vijay Murthy, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+05/02/2020, 3:51 pm , Karti, Mm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 3:51 pm , Karti, Mudhaliar lam ok va,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.0,0.423,0.577,pos,1
+05/02/2020, 3:52 pm , Karti, Athu than naraiya kaatuthu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 3:52 pm , Vijay Murthy, Adan nanu paakaran,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 3:52 pm , Karti, Pillai rmba kammiya varuthu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 3:52 pm , Karti, Athuvum mokkaya than iruku🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 3:52 pm , Vijay Murthy, 🤣🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 3:52 pm , Vijay Murthy, Adapavi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 3:53 pm , Karti, Mudaliar la ellam 😍😍,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 3:53 pm , Karti, 😆😆😆😆,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 3:53 pm , Vijay Murthy, 🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 3:54 pm , Karti, Muthaliyar um forward caste thana,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 3:54 pm , Karti, Ok pannikalm🤣🤣,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1
+05/02/2020, 3:55 pm , Vijay Murthy, Mappillai ku avlo avasaram🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 3:55 pm , Karti, 🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 3:55 pm , Karti, 5400 rs🥴🥴,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 3:55 pm , Karti, Athukulla ok aagiranum,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.0,0.524,0.476,pos,1
+05/02/2020, 3:56 pm , Karti, Extend panna again kaasu kattanum🥴,"{'neg': 0.0, 'neu': 0.702, 'pos': 0.298, 'compound': 0.1779}",0.1779,0.0,0.298,0.702,pos,1
+05/02/2020, 3:56 pm , Vijay Murthy, Pisunari payalae😤😤😤,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 3:56 pm , Karti, 😆😆,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 3:57 pm , Karti, Nammakaga selavu panna paravala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 3:57 pm , Karti, Ithu antha matrimony karanuku la pothu🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 3:57 pm , Karti, Sattu puttu nu paathu mudinga🥴🥴,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 4:05 pm , Vijay Murthy, 🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 4:44 pm , Karti, Big basket login enna,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 4:45 pm , Vijay Murthy, Vijayamurthy98@gmail.com,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 4:45 pm , Vijay Murthy, Neelamurthy64,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 4:45 pm , Karti, Ok ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5267}",0.5267,0.0,1.0,0.0,pos,1
+05/02/2020, 4:46 pm , Vijay Murthy, Adhuliyae podu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 4:46 pm , Vijay Murthy, Adan best,"{'neg': 0.0, 'neu': 0.192, 'pos': 0.808, 'compound': 0.6369}",0.6369,0.0,0.808,0.192,pos,1
+05/02/2020, 4:48 pm , Karti, Ok ok done,"{'neg': 0.0, 'neu': 0.185, 'pos': 0.815, 'compound': 0.5267}",0.5267,0.0,0.815,0.185,pos,1
+05/02/2020, 4:48 pm , Karti, Photos pootu vidunga... Profile highlight agum apo than,"{'neg': 0.0, 'neu': 0.745, 'pos': 0.255, 'compound': 0.34}",0.34,0.0,0.255,0.745,pos,1
+05/02/2020, 5:31 pm , Vijay Murthy, Ne va,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 5:32 pm , Karti, Ok ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5267}",0.5267,0.0,1.0,0.0,pos,1
+05/02/2020, 8:27 pm , Vijay Murthy, 7550237143,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 9:16 pm , Karti, Check out Yamini's profile on TamilMatrimony. https://m.tamilmatrimony.com/bm.php?viewedid=M6577120&MSTYPE=SHAREPROFILE,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/02/2020, 9:18 pm , Vijay Murthy, 👌🏻👌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 9:19 pm , Karti, 😍😍,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 9:19 pm , Karti, 🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/02/2020, 9:19 pm , Vijay Murthy, Paru paru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/02/2020, 9:19 pm , Karti, Done,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:22 pm , Karti, Hello,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:22 pm , Vijay Murthy, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",0.4019,0.0,1.0,0.0,pos,3
+06/02/2020, 12:22 pm , Karti, Indhu oru no kuduthala,"{'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.296}",-0.296,0.423,0.0,0.577,neg,1
+06/02/2020, 12:22 pm , Karti, Antha no ku call pani paesa solu mama va,"{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}",-0.296,0.216,0.0,0.784,neg,1
+06/02/2020, 12:23 pm , Vijay Murthy, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 12:23 pm , Karti, And yamini no ayum eduka sollirukaen... Avanga kittayum paesa solu...,"{'neg': 0.196, 'neu': 0.804, 'pos': 0.0, 'compound': -0.296}",-0.296,0.196,0.0,0.804,neg,1
+06/02/2020, 12:23 pm , Vijay Murthy, Okie,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 12:24 pm , Karti, ABroad than venum na.. They expect more than 1 lakh pay monthly,"{'neg': 0.143, 'neu': 0.857, 'pos': 0.0, 'compound': -0.1689}",-0.1689,0.143,0.0,0.857,neg,1
+06/02/2020, 12:24 pm , Karti, Set aagathu nu puriya vai,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 12:24 pm , Vijay Murthy, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 12:37 pm , Karti, Update pls,"{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}",0.0772,0.0,0.565,0.435,pos,1
+06/02/2020, 12:37 pm , Karti, 😛🙊,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:38 pm , Vijay Murthy, Appa veetla illa da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:38 pm , Karti, Sight la ya,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 12:38 pm , Karti, Seri seri,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 12:38 pm , Vijay Murthy, Ama,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+06/02/2020, 12:39 pm , Karti, Vanthathum frst profile eh kaamichitu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 12:39 pm , Karti, Aprm no kuduthu paesa solu,"{'neg': 0.355, 'neu': 0.645, 'pos': 0.0, 'compound': -0.296}",-0.296,0.355,0.0,0.645,neg,1
+06/02/2020, 12:39 pm , Vijay Murthy, Seringa mappillai🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:39 pm , Karti, Check out Anantha Revathi's profile on TamilMatrimony. https://m.tamilmatrimony.com/bm.php?viewedid=M6240387&MSTYPE=SHAREPROFILE,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 12:39 pm , Vijay Murthy, Adaiii,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:39 pm , Vijay Murthy, Anni anupchitanga da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 12:39 pm , Karti, 🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:39 pm , Vijay Murthy, Ada naara payalae🤣🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 12:39 pm , Karti, Naanum anupuvaen😛,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 12:40 pm , Vijay Murthy, Karumooo karumooo,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:41 pm , Karti, Check out Ilakiya's profile on TamilMatrimony. https://m.tamilmatrimony.com/bm.php?viewedid=M6537385&MSTYPE=SHAREPROFILE,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 12:42 pm , Karti, Iva oru badminton player ahm🤩,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 12:43 pm , Vijay Murthy, Ryyytuu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 12:44 pm , Karti, 🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:54 pm , Karti, http://m.tamilmatrimony.com/bm.php?viewedid=M6539721&MSTYPE=SHAREPROFILE,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 12:54 pm , Karti, Ivalum🏸🙊🙊,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:55 pm , Vijay Murthy, 🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:56 pm , Karti, Sirika kudathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:56 pm , Vijay Murthy, Vera ena pana,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 12:56 pm , Karti, Ivalae unaku akka va vanthalum varalam🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 12:56 pm , Vijay Murthy, Nee mudivu pana poodadu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 12:56 pm , Vijay Murthy, Anda ponnu uhm mudivu pananu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 12:56 pm , Karti, 😛😛😛😛,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:56 pm , Vijay Murthy, 🤣🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:57 pm , Karti, STK-20200206-WA0004.webp (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:57 pm , Vijay Murthy, STK-20190801-WA0004.webp (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:57 pm , Karti, STK-20190908-WA0017.webp (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 12:57 pm , Karti, Rytu vidu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 12:57 pm , Vijay Murthy, STK-20191012-WA0005.webp (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 2:27 pm , Karti, Check out Madhubala's profile on TamilMatrimony. https://m.tamilmatrimony.com/bm.php?viewedid=M6825880&MSTYPE=SHAREPROFILE,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 2:38 pm , Vijay Murthy, Rytuu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 2:39 pm , Karti, Paesiningala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 2:39 pm , Vijay Murthy, Anda profile la nite dan call pana solli pootruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 2:39 pm , Vijay Murthy, Yamini,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 2:40 pm , Vijay Murthy, And ilakiya number illa,"{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.0772}",0.0772,0.0,0.302,0.698,pos,4
+06/02/2020, 2:40 pm , Karti, Ohhh,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 2:40 pm , Vijay Murthy, Req poiruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 2:40 pm , Karti, Paathu anuprn,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 2:40 pm , Vijay Murthy, Avanga dan reply pananu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 2:40 pm , Karti, Frst oru profile anupchala indhu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 2:40 pm , Vijay Murthy, Sss,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 2:41 pm , Vijay Murthy, Appa vendam soldranga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 2:41 pm , Karti, Check out Anantha Revathi's profile on TamilMatrimony. https://m.tamilmatrimony.com/bm.php?viewedid=M6240387&MSTYPE=SHAREPROFILE,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 2:41 pm , Karti, Ohhh rytuy,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 2:41 pm , Vijay Murthy, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 2:47 pm , Karti, IMG-20200206-WA0005.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 2:48 pm , Vijay Murthy, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 2:48 pm , Karti, Intha profile,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 2:48 pm , Vijay Murthy, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+06/02/2020, 2:48 pm , Vijay Murthy, Ellam mothama anupu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 2:48 pm , Vijay Murthy, Sethu vechi even kaatran,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 2:48 pm , Vijay Murthy, STK-20190801-WA0004.webp (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 2:48 pm , Karti, IMG-20200206-WA0006.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 2:49 pm , Vijay Murthy, Nxt uhh,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 2:49 pm , Karti, Frst yamini ku call pannitu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 2:50 pm , Vijay Murthy, Hmmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 2:50 pm , Karti, Intha selvi and madhubala ku call pannunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 2:50 pm , Vijay Murthy, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+06/02/2020, 3:05 pm , Karti, Check out S Janani's profile on TamilMatrimony. https://m.tamilmatrimony.com/bm.php?viewedid=M6732524&MSTYPE=SHAREPROFILE,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 3:05 pm , Vijay Murthy, Nxt,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 3:05 pm , Karti, IMG-20200206-WA0007.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 3:05 pm , Vijay Murthy, Nice,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4215}",0.4215,0.0,1.0,0.0,pos,4
+06/02/2020, 3:06 pm , Karti, Check out Priya P's profile on TamilMatrimony. https://m.tamilmatrimony.com/bm.php?viewedid=M5533842&MSTYPE=SHAREPROFILE,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 3:06 pm , Karti, IMG-20200206-WA0008.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 6:13 pm , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+06/02/2020, 6:13 pm , Vijay Murthy, Thr????,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+06/02/2020, 6:43 pm , Karti, On the way,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 7:02 pm , Karti, Solu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 7:03 pm , Vijay Murthy, Vantiya,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 7:03 pm , Vijay Murthy, Veetuku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 7:03 pm , Karti, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",0.4019,0.0,1.0,0.0,pos,3
+06/02/2020, 7:29 pm , Karti, 4 nos unaku apirukaen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 7:29 pm , Karti, Athuku call pnnunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+06/02/2020, 7:30 pm , Vijay Murthy, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 7:34 pm , Karti, Come out and speak to them,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 7:35 pm , Vijay Murthy, Inum rendu pakaran,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 9:11 pm , Karti, Yamini appa enna sonnanga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 9:11 pm , Vijay Murthy, Horoscope ketanga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 9:11 pm , Vijay Murthy, Nalki anupanu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+06/02/2020, 9:12 pm , Karti, Profile paakalayae innum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 9:12 pm , Karti, Seri seri,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+06/02/2020, 9:12 pm , Vijay Murthy, Hmmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+07/02/2020, 8:14 am , Karti, 02-07-2020-08.11.03.pdf (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+07/02/2020, 10:32 am , Karti, Dont tell to any of my friends that we are looking for alliance,"{'neg': 0.0, 'neu': 0.795, 'pos': 0.205, 'compound': 0.4767}",0.4767,0.0,0.205,0.795,pos,4
+07/02/2020, 10:32 am , Karti, Ellam mudinjathum sollikalam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+07/02/2020, 10:32 am , Vijay Murthy, Naa yaarta solla pooran,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+07/02/2020, 10:32 am , Vijay Murthy, Kk🤣🤣🤣🤣🤣🤣🤣🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+07/02/2020, 10:32 am , Karti, Kaepanga... Athuku sonnaen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+07/02/2020, 10:33 am , Vijay Murthy, Rytuuuu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+07/02/2020, 10:33 am , Karti, Ellavanum enaku surprise ah than sonnanunga,"{'neg': 0.0, 'neu': 0.704, 'pos': 0.296, 'compound': 0.2732}",0.2732,0.0,0.296,0.704,pos,4
+07/02/2020, 10:33 am , Karti, Naanum athae follow pananum😛😛,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+07/02/2020, 10:33 am , Vijay Murthy, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+07/02/2020, 10:46 am , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+07/02/2020, 10:46 am , Vijay Murthy, Dish ku money pay panu,"{'neg': 0.259, 'neu': 0.741, 'pos': 0.0, 'compound': -0.1027}",-0.1027,0.259,0.0,0.741,neg,0
+07/02/2020, 10:46 am , Vijay Murthy, Nite poidum illana,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+07/02/2020, 10:47 am , Karti, Mm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+07/02/2020, 10:47 am , Karti, Ll do,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+07/02/2020, 10:49 am , Vijay Murthy, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+07/02/2020, 11:53 am , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+07/02/2020, 11:53 am , Vijay Murthy, Thr,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+07/02/2020, 11:54 am , Karti, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",0.4019,0.0,1.0,0.0,pos,3
+07/02/2020, 11:54 am , Vijay Murthy, Sim venum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+07/02/2020, 11:54 am , Vijay Murthy, Varumbodu vangitu variya,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+07/02/2020, 11:54 am , Karti, Athu nalaiku mrng kovil poitu varum bothu vngiralam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+07/02/2020, 11:54 am , Karti, Proof ethum illa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+07/02/2020, 11:55 am , Vijay Murthy, Hmmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+07/02/2020, 11:55 am , Karti, Ippo,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+07/02/2020, 11:55 am , Karti, Erikarai layae iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+07/02/2020, 11:55 am , Vijay Murthy, Dish pay panitiya,"{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.1027}",-0.1027,0.412,0.0,0.588,neg,1
+07/02/2020, 11:55 am , Karti, Mrng vangiralam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+07/02/2020, 11:55 am , Karti, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",0.4019,0.0,1.0,0.0,pos,3
+07/02/2020, 11:55 am , Vijay Murthy, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+07/02/2020, 11:56 am , Karti, Horoscope anupchacha,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+07/02/2020, 11:56 am , Karti, Yamini ku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+07/02/2020, 11:57 am , Vijay Murthy, Avanga nambala first paathuka sonaga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+07/02/2020, 11:57 am , Karti, Naethu kaetangala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+07/02/2020, 11:58 am , Karti, Athukaga ketaen... Anupchacha nu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+07/02/2020, 12:00 pm , Vijay Murthy, Avanga paathutu anupa sonaga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+07/02/2020, 12:00 pm , Karti, Ok ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5267}",0.5267,0.0,1.0,0.0,pos,1
+08/02/2020, 6:53 pm , Vijay Murthy, Panitu sollu da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+08/02/2020, 6:57 pm , Vijay Murthy, Aminjikarai post office uhm pootu paru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+08/02/2020, 6:58 pm , Karti, Ok ok wait,"{'neg': 0.0, 'neu': 0.185, 'pos': 0.815, 'compound': 0.5267}",0.5267,0.0,0.815,0.185,pos,1
+08/02/2020, 7:01 pm , Vijay Murthy, Yaar book pana,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+08/02/2020, 7:01 pm , Karti, Naa than,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+11/02/2020, 2:36 pm , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+11/02/2020, 2:37 pm , Karti, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",0.4019,0.0,1.0,0.0,pos,3
+11/02/2020, 2:38 pm , Vijay Murthy, Shankar chat swiggy la iruka,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+11/02/2020, 2:39 pm , Karti, Therilayae,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/02/2020, 2:39 pm , Karti, Paakuraen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/02/2020, 2:53 pm , Vijay Murthy, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+11/02/2020, 3:01 pm , Karti, Kaatalayae,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/02/2020, 3:01 pm , Karti, Antha shop,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+11/02/2020, 3:02 pm , Vijay Murthy, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+11/02/2020, 3:02 pm , Vijay Murthy, Shree mittai kaatuda,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/02/2020, 3:04 pm , Karti, Namma area ku delivery illa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/02/2020, 3:05 pm , Vijay Murthy, 👌🏻👌🏻👌🏻👌🏻👌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/02/2020, 3:07 pm , Karti, 😅,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+11/02/2020, 3:08 pm , Vijay Murthy, Grace lam iruka,"{'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.4215}",0.4215,0.0,0.583,0.417,pos,1
+11/02/2020, 3:09 pm , Karti, Enna venum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+11/02/2020, 3:09 pm , Karti, ?,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+11/02/2020, 3:09 pm , Vijay Murthy, Sapda chats edadu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+11/02/2020, 3:10 pm , Karti, Ohh k k,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+11/02/2020, 3:10 pm , Vijay Murthy, Mm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+11/02/2020, 4:20 pm , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+11/02/2020, 4:21 pm , Karti, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",0.4019,0.0,1.0,0.0,pos,3
+11/02/2020, 4:21 pm , Vijay Murthy, Enda shop order panlam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+11/02/2020, 4:22 pm , Vijay Murthy, A2b??,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/02/2020, 4:22 pm , Karti, Paniyaram sapduviya,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/02/2020, 4:22 pm , Vijay Murthy, Nono,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+11/02/2020, 4:22 pm , Vijay Murthy, Pav bhaji irunda panu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+11/02/2020, 4:22 pm , Karti, Okk,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/02/2020, 4:24 pm , Karti, Perambur srinivasa la iruk,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+11/02/2020, 4:24 pm , Karti, Nall irukum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+11/02/2020, 4:24 pm , Karti, Ethana venum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+11/02/2020, 4:24 pm , Vijay Murthy, Illa vendam vidu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+11/02/2020, 4:24 pm , Vijay Murthy, Naa paathukaran,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+11/02/2020, 4:24 pm , Karti, Nalla than irukuk,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+11/02/2020, 4:24 pm , Karti, Irukum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+11/02/2020, 4:25 pm , Vijay Murthy, Nono,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+11/02/2020, 4:25 pm , Vijay Murthy, Vendam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+11/02/2020, 4:25 pm , Karti, Seri seri,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+11/02/2020, 4:25 pm , Vijay Murthy, Mmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+11/02/2020, 4:25 pm , Vijay Murthy, Edum panada,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+11/02/2020, 4:25 pm , Karti, Seri seri,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+13/02/2020, 9:47 am , Vijay Murthy, Karti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+13/02/2020, 9:47 am , Vijay Murthy, Book panitan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/02/2020, 9:47 am , Vijay Murthy, Evening 6o clk appointment,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 9:47 am , Karti, Sooper,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/02/2020, 9:47 am , Karti, 🙌🏻🙌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 9:47 am , Vijay Murthy, Muthu kudutha,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/02/2020, 9:47 am , Vijay Murthy, Already oruthar irukaram,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 9:47 am , Karti, Seri seri,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+13/02/2020, 9:48 am , Karti, Ohh,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+13/02/2020, 9:48 am , Vijay Murthy, So k.muthu nu kuduthurukan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/02/2020, 9:48 am , Karti, 🤣🤣,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 9:48 am , Vijay Murthy, Adae solliko,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 9:48 am , Karti, Sirappu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 9:48 am , Karti, Okii,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 9:48 am , Vijay Murthy, Hmmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+13/02/2020, 9:48 am , Vijay Murthy, Poi paru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/02/2020, 9:48 am , Vijay Murthy, Olunga tab podu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/02/2020, 9:48 am , Vijay Murthy, Enn adikadi varidunu kelu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+13/02/2020, 9:48 am , Karti, Done done,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 9:48 am , Karti, Kaetruvom,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 9:49 am , Karti, 🙌🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 9:49 am , Vijay Murthy, Hmmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+13/02/2020, 4:38 pm , Karti, Chann vangitu varava,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+13/02/2020, 4:38 pm , Karti, But 7 ku mela aagirum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 6:00 pm , Vijay Murthy, Nono vendam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/02/2020, 6:21 pm , Vijay Murthy, Karti thr,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+13/02/2020, 6:28 pm , Karti, Vantaen ipo than,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/02/2020, 6:28 pm , Karti, Solu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/02/2020, 6:29 pm , Vijay Murthy, Illa shampoo vanganu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+13/02/2020, 6:29 pm , Vijay Murthy, Adan solla marantan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/02/2020, 6:29 pm , Karti, Enn shampoo,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+13/02/2020, 6:30 pm , Vijay Murthy, Thaliki kulika,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 6:30 pm , Vijay Murthy, IMG-20200213-WA0001.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 6:32 pm , Karti, Enga kedaikuk,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/02/2020, 6:32 pm , Karti, *kedaikum?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+13/02/2020, 6:32 pm , Vijay Murthy, Any medical shop,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+13/02/2020, 6:33 pm , Karti, Ok ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5267}",0.5267,0.0,1.0,0.0,pos,1
+13/02/2020, 6:33 pm , Vijay Murthy, Hmm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+15/02/2020, 4:22 pm , Vijay Murthy, https://youtu.be/ngltCEFgjcQ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+15/02/2020, 5:20 pm , Vijay Murthy, https://youtu.be/sVNQIbuv_Mc,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+25/02/2020, 9:35 am , Karti, vijaymarbles1208,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+25/02/2020, 2:17 pm , Vijay Murthy, IMG-20200225-WA0002.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+25/02/2020, 2:17 pm , Vijay Murthy, My class,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+25/02/2020, 2:18 pm , Karti, Nicee,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+25/02/2020, 2:18 pm , Vijay Murthy, Coed class,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+25/02/2020, 2:18 pm , Karti, Enna pasangalum ponnum onna irukeenga😛😛,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+25/02/2020, 2:18 pm , Vijay Murthy, But no use,"{'neg': 0.583, 'neu': 0.417, 'pos': 0.0, 'compound': -0.4215}",-0.4215,0.583,0.0,0.417,neg,0
+25/02/2020, 2:18 pm , Vijay Murthy, Naa coed class dana,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+25/02/2020, 2:18 pm , Karti, Yess,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+25/02/2020, 2:19 pm , Karti, But pic thaniya thaniya edupanganu nenachn😁😁😛😛😛,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+25/02/2020, 2:19 pm , Vijay Murthy, Iyaaa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+25/02/2020, 2:19 pm , Vijay Murthy, Aasai uh paru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+25/02/2020, 2:19 pm , Karti, 😅😅,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+25/02/2020, 2:19 pm , Vijay Murthy, 😂😂😂,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+28/02/2020, 11:55 am , Vijay Murthy, Vangitan da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+28/02/2020, 11:55 am , Karti, Ok ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5267}",0.5267,0.0,1.0,0.0,pos,1
+28/02/2020, 11:55 am , Karti, Rendum saethu dining table la pootu parunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+28/02/2020, 11:55 am , Karti, Epdy iruku nu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+28/02/2020, 11:55 am , Vijay Murthy, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+28/02/2020, 11:56 am , Karti, Mm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+28/02/2020, 2:41 pm , Karti, Crct ah iruka rendum dining table ku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+28/02/2020, 2:41 pm , Vijay Murthy, Ss,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+28/02/2020, 2:41 pm , Karti, Supr,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/03/2020, 11:09 am , Vijay Murthy, Karthi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/03/2020, 11:09 am , Karti, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",0.4019,0.0,1.0,0.0,pos,3
+01/03/2020, 11:09 am , Karti, Kitta vanthutom,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/03/2020, 11:09 am , Vijay Murthy, Enga iruka,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/03/2020, 11:09 am , Vijay Murthy, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/03/2020, 11:09 am , Karti, 😁,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+01/03/2020, 11:10 am , Vijay Murthy, Yaar yaar varinga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+01/03/2020, 11:10 am , Vijay Murthy, Avangalam varangala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+01/03/2020, 11:10 am , Karti, Only me and bharathy,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/03/2020, 11:10 am , Vijay Murthy, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/03/2020, 11:10 am , Karti, Illa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/03/2020, 11:14 am , Vijay Murthy, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/03/2020, 10:09 pm , Vijay Murthy, https://youtu.be/16i0_NdPowE,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+01/03/2020, 10:10 pm , Vijay Murthy, Audio plzz,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+01/03/2020, 10:15 pm , Karti, AUD-20200301-WA0004.mp3 (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+03/03/2020, 3:05 pm , Karti, IMG-20200303-WA0012.jpg (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+03/03/2020, 7:14 pm , Vijay Murthy, Para,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+03/03/2020, 7:17 pm , Karti, 🥴🥴,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/03/2020, 2:32 pm , Karti, http://www.chennaicorporation.gov.in/,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/03/2020, 2:32 pm , Karti, Ithu open aagutha nu paru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/03/2020, 2:56 pm , Karti, Open aacha?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/03/2020, 2:57 pm , Vijay Murthy, Illa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+05/03/2020, 2:57 pm , Karti, Athe than ingayum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/03/2020, 2:59 pm , Vijay Murthy, Vera ena pana,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+05/03/2020, 3:02 pm , Vijay Murthy, 9003225576,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+05/03/2020, 3:02 pm , Vijay Murthy, Idan metro srinivasan number,"{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.0772}",0.0772,0.0,0.302,0.698,pos,4
+05/03/2020, 3:02 pm , Karti, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1
+05/03/2020, 3:03 pm , Vijay Murthy, Udanae call paniru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
